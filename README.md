@@ -3,7 +3,7 @@
 EasyFRAP assists quantitative and qualitative analysis of FRAP data. The user can handle simultaneously large datasets of raw data, visualize fluorescence recovery curves, exclude low quality data, perform data normalization, extract quantitative parameters, perform batch analysis and save the resulting data and figures for further analysis.
 EasyFRAP is implemented as a single-screen Graphical User Interface and is highly interactive, as it permits parameterization and visual data quality assessment at various points in the analysis. EasyFRAP was developed by the **Cell Cycle Lab of the University of Patras** and is free software, available under the General Public License version 3 (GPL v3).
 
-For updates check out our [lab's webpage](http://ccl.med.upatras.gr/index.php?id=easyfrap)
+For updates regularly check out our [lab's webpage!](http://ccl.med.upatras.gr/index.php?id=easyfrap)
 
 If you use our tool please cite: 
 
