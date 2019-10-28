@@ -7,7 +7,7 @@ For updates check out our [lab's webpage](http://ccl.med.upatras.gr/index.php?id
 
 If you use our tool please cite: 
 
-> Rapsomaniki MA, Kotsantis P, Symeonidou IE, Giakoumakis NN, Taraviras S and Lygerou Z (2012). easyFRAP: an interactive, easy-to-use tool for qualitative and quantitative analysis of Fluorescence Recovery After Photobleaching data. Bioinformatics. 28(13):1800-1801 (DOI:10.1093/bioinformatics/bts241)
+> Rapsomaniki MA, Kotsantis P, Symeonidou IE, Giakoumakis NN, Taraviras S and Lygerou Z (2012). easyFRAP: an interactive, easy-to-use tool for qualitative and quantitative analysis of Fluorescence Recovery After Photobleaching data. Bioinformatics. 28(13):1800-1801 (https://doi.org/10.1093/bioinformatics/bts241)
 
 See also: 
 
@@ -17,4 +17,4 @@ See also:
 
 **Stochastic modeling of FRAP experiments**: For inference of kinetic parameters from FRAP data (diffusion coefficient, bound fraction and residence time) see:
 
-> Rapsomaniki, M. A., Cinquemani, E., Giakoumakis, N. N., Kotsantis, P., Lygeros, J., & Lygerou Z. (2015). Inference of protein kinetics by stochastic modeling and simulation of fluorescence recovery after photobleaching experiments. Bioinformatics, 2015 Feb 1;31(3):355-62. (DOI:10.1093/bioinformatics/btu619)
+> Rapsomaniki, M. A., Cinquemani, E., Giakoumakis, N. N., Kotsantis, P., Lygeros, J., & Lygerou Z. (2015). Inference of protein kinetics by stochastic modeling and simulation of fluorescence recovery after photobleaching experiments. Bioinformatics, 2015 Feb 1;31(3):355-62. (https://doi.org/10.1093/bioinformatics/btu619)
