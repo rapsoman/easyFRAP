@@ -13,7 +13,7 @@ See also:
 
 **EasyFRAP-web**: EasyFRAP became web-based! Visit EasyFRAP web [here](https://easyfrap.vmnet.upatras.gr) or read our paper:
 
->Grigorios Koulouras, Andreas Panagopoulos, Maria A Rapsomaniki, Nickolaos N Giakoumakis, Stavros Taraviras, Zoi Lygerou, EasyFRAP-web: a web-based tool for the analysis of fluorescence recovery after photobleaching data, Nucleic Acids Research, Volume 46, Issue W1, 2 July 2018, Pages W467–W472, (DOI:10.1093/nar/gky508)
+>Grigorios Koulouras, Andreas Panagopoulos, Maria A Rapsomaniki, Nickolaos N Giakoumakis, Stavros Taraviras, Zoi Lygerou, EasyFRAP-web: a web-based tool for the analysis of fluorescence recovery after photobleaching data, Nucleic Acids Research, Volume 46, Issue W1, 2 July 2018, Pages W467–W472, (https://doi.org/10.1093/nar/gky508)
 
 **Stochastic modeling of FRAP experiments**: For inference of kinetic parameters from FRAP data (diffusion coefficient, bound fraction and residence time) see:
 
